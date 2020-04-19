@@ -1,0 +1,48 @@
+html {
+  font-family: "IBM Plex Sans", sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.search-icon {
+  left: .3em;
+}
+
+input.search-input {
+  padding-left: calc(.4em + 18px);
+}
+
+.left-bar {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 3px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+.table-wrapper {
+  min-width: 45em;
+}
+
+.row-s {
+  width: 5em;
+}
+
+.row-m {
+  width: 6em;
+}
+
+.row-l {
+  width: 7em;
+}
